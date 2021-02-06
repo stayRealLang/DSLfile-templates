@@ -10,7 +10,7 @@
 
 1.  cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File\ Templates/Source
 如果没有文件夹可以手动创建
-2.  sudo git clone https://gitee.com/langcode/dslfile-templates DSLBase.xctemplate
+2.  sudo git clone https://github.com/stayRealLang/DSLfile-templates.git DSLBase.xctemplate
 
 
 #### 使用说明
